@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Результат)    
+[5. Результат](https://github.com/sobolso/ds/blob/main/guess-number-task/README.md#результаты)    
 
 ### Описание проекта    
 Угадать загаданное компьютером число меньше чем за 20 попыток.
@@ -39,7 +39,7 @@
 :arrow_up:[к оглавлению](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Оглавление)
 
 
-### Результаты:  
+### Результаты  
 Создан алгоритм, позволяющий "угадывать" число за 14 попыток. 
 
 :arrow_up:[к оглавлению](https://github.com/sobolso/ds/tree/main/guess-number-task/README.md#Оглавление)
